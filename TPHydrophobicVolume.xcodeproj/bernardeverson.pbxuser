@@ -1,0 +1,98 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A3B635BA12AFFA7F0008A103 /* TPHydrophobicVolume */;
+		activeTarget = 8DD76FA90486AB0100D96B5E /* TPHydrophobicVolume */;
+		addToTargets = (
+		);
+		codeSenseManager = A3B635C412AFFA850008A103 /* Code sense */;
+		executables = (
+			A3B635BA12AFFA7F0008A103 /* TPHydrophobicVolume */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313522815;
+			PBXWorkspaceStateSaveDate = 313522815;
+		};
+		sourceControlManager = A3B635C312AFFA850008A103 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.c */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{282, 241}\";\n            s = 0;\n        },\n                {\n            r = \"{568, 674}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 1244}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 464}}";
+			sepNavSelRange = "{283, 0}";
+			sepNavVisRange = "{0, 331}";
+		};
+	};
+	8DD76FA90486AB0100D96B5E /* TPHydrophobicVolume */ = {
+		activeExec = 0;
+		executables = (
+			A3B635BA12AFFA7F0008A103 /* TPHydrophobicVolume */,
+		);
+	};
+	A3B635BA12AFFA7F0008A103 /* TPHydrophobicVolume */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TPHydrophobicVolume;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A3B635C312AFFA850008A103 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A3B635C412AFFA850008A103 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
